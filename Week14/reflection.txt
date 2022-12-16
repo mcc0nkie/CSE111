@@ -1,0 +1,25 @@
+Please take a few minutes to reflect on your experience in CSE 111 and
+think about the challenges, successes, and all that you've learned
+along the way.
+
+
+Now, please respond thoroughly (1 - 2 paragraphs for each question) to
+the following questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+When I was writing my script for the final project, I discovered that there were several instances where I needed to repeat the same process over and over, with slight variations. Creating a function allowed me to remove duplicate code and repeat the process over and over.
+For example, in my script I give users the option to select the number of pages they want to search on Indeed. The easiest way to grab each page was to generate multiple URLs. After searching a webpage, I needed to generate a URL again for the next page of search results and I needed to do this for the number of pages that a user specified. I used a function to repeat this process each time it needed to be done. 
+
+
+2. In your judgment, what is the value of test functions?
+
+I don't love test functions, since I tend to use the Jupyter notebooks extension for VS Code to test my code as I go through it. That said, they do make coders look at code in a different way. Additionally, they can be very useful when a coder wants to test a wide variety of inputs to make sure it functions properly. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+I'll read the error code to figure out where the issue is. If it has to do with a package/method/something that I'm unfamiliar with, then I'll google the error code. From there, if I don't find the answer, I will open up a Python terminal or create a new script to mess around with the code that is bugging my process. If it's a process that requires previous steps to be complete (i.e., Selenium requires a webpage to be open in order to find elements on a page), then I'll use the Jupyter notebooks in VS Code to run to the process step by step. 
+I could improve my process by keeping better notes. Often times, my test cases and new scripts can become a bit cluttered, so if I have to leave and return later, it can take me to second to figure out where I left off. 

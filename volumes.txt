@@ -1,0 +1,24 @@
+CUSTOMER WANTS TO BUY TIRES
+Today's date: 2021-4-29
+Tire Width: 205
+Aspect ratio: 60
+Diameter: 15
+Volume: 39924.5
+Customer phone number: 32132153214
+------------------------------------
+CUSTOMER WANTS TO BUY TIRES
+Today's date: 2021-4-29
+Tire Width: 205
+Aspect ratio: 60
+Diameter: 15
+Volume: 39924.5
+Customer phone number: 1234567894
+------------------------------------
+CUSTOMER WANTS TO BUY TIRES
+Today's date: 2021-4-29
+Tire Width: 205
+Aspect ratio: 60
+Diameter: 15
+Volume: 39924.5
+Customer phone number: 1234564567
+------------------------------------
